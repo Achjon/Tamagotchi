@@ -1,5 +1,5 @@
 # Tamagotchi
-Jednoduchý Tamagotchi simulátor v pythonu
+Jednoduchý Tamagotchi v pythonu
 
 UNIX - python3 pypet.py
 
